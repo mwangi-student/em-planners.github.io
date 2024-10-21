@@ -55,7 +55,7 @@ A user:
 
 ## Take a look--
 
-- The app is live at [EM Planners](https://mwangi-student.github.io/Phase-1-project.github.io/)
+- The app is live at [EM Planners](https://mwangi-student.github.io/em-planners.github.io/)
 
 ## Installation
 
@@ -64,7 +64,7 @@ To view or modify this project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/mwangi-student/Phase-1-project.github.io
+   git clone https://github.com/mwangi-student/em-planners.github.io
    ```
 
 2. **Navigate to the Project Directory:**
@@ -102,4 +102,4 @@ To view or modify this project locally, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/mwangi-student/Phase-1-project.github.io/blob/main/License.md) License.
+This project is licensed under the [MIT](https://github.com/mwangi-student/em-planners.github.io/blob/main/License.md) License.
