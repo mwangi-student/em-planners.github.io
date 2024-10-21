@@ -1,102 +1,57 @@
 {
   "posts": [
     {
-      "id": "1",
-      "title": "Understanding JavaScript Closures",
-      "author": "John Doe",
-      "date": "2024-10-01",
-      "content": "JavaScript closures are a fundamental concept for mastering the language. They allow functions to access variables outside their immediate scope.",
-      "imageUrl": "https://picsum.photos/seed/new-image/600/400",
-      "comments": [
-        {
-          "id": 1,
-          "author": "Jane Smith",
-          "date": "2024-10-02",
-          "content": "Great explanation! This really helped me understand closures better."
-        },
-        {
-          "id": 2,
-          "author": "Mark Johnson",
-          "date": "2024-10-03",
-          "content": "I had trouble with closures, but this post clarified things. Thanks!"
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "title": "Getting Started with React Hooks",
-      "author": "Alice Green",
-      "date": "2024-09-15",
-      "content": "React Hooks have revolutionized the way we write functional components. In this post, we'll explore useState and useEffect in detail.",
-      "imageUrl": "https://picsum.photos/seed/react-hooks/600/400",
-      "comments": [
-        {
-          "id": 1,
-          "author": "Chris Brown",
-          "date": "2024-09-16",
-          "content": "Thanks for the guide! Hooks are amazing once you get used to them."
-        },
-        {
-          "id": 2,
-          "author": "Sara Lee",
-          "date": "2024-09-17",
-          "content": "Can you also cover useContext in your next post?"
-        },
-        {
-          "id": 3,
-          "author": "Tom Wilson",
-          "date": "2024-09-18",
-          "content": "I wish I had known about hooks earlier; they make my code so much cleaner!"
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "title": "CSS Flexbox vs. Grid: Which One to Use?",
-      "author": "Emily White",
-      "date": "2024-08-20",
-      "content": "CSS Flexbox and Grid are powerful tools for layout design. Flexbox is perfect for 1-dimensional layouts, while Grid excels in 2-dimensional designs.",
-      "imageUrl": "https://picsum.photos/seed/css-flexbox-grid/600/400",
-      "comments": [
-        {
-          "id": 1,
-          "author": "Paul Adams",
-          "date": "2024-08-21",
-          "content": "This is a helpful comparison! I often struggle to choose between the two."
-        },
-        {
-          "id": 2,
-          "author": "Lisa King",
-          "date": "2024-08-22",
-          "content": "I prefer Flexbox for simple layouts and Grid for complex ones. Thanks for the breakdown!"
-        }
-      ]
-    },
-    {
-      "id": "ab08",
-      "title": "Test JavaScript Closures",
-      "author": "John Doe",
-      "date": "2024-10-01",
-      "imageUrl": "https://picsum.photos/seed/react-hooks/600/400",
-      "content": "JavaScript closures are a fundamental concept for mastering the language. They allow functions to access variables outside their immediate scope.",
+      "id": "f484",
+      "title": "Learning React Native",
+      "description": " This is the best Js framework ever to be invented.",
+      "imageUrl": "https://crowdbotics.com/wp-content/uploads/2024/02/Blue-Black-Background-React-Native-1-1200x900.png",
+      "location": "moringa school campus",
+      "date": "2024-10-28",
       "comments": []
     },
     {
-      "id": "acb7",
-      "title": "Testing",
-      "description": "This is for testing Purposes",
-      "imageUrl": "https://img.freepik.com/free-icon/user_318-804790.jpg",
-      "author": "kelvin",
-      "date": "2024-09-09",
+      "id": "1154",
+      "title": "Launch Our Startup",
+      "description": " Be early enough and welcome everyone.",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/C5612AQFP55-rnItLFg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1548954947268?e=2147483647&v=beta&t=4XoweShOo4h_VtOKM4RvEdsQDoGGzkxJU4u7s8pTCOo",
+      "location": "Prestige Mall",
+      "date": "2024-10-22",
       "comments": []
     },
     {
-      "id": "d315",
-      "title": "egser",
-      "description": " trhbdfbgxdftrbfrgbd",
-      "imageUrl": "https://img.freepik.com/free-icon/user_318-804790.jpg",
-      "author": "kelvin",
-      "date": "2020-12-12",
+      "id": "f57a",
+      "title": "Study Data Science",
+      "description": " Study Data science",
+      "imageUrl": "https://unique.ac.tz/wp-content/uploads/2024/07/data-science.jpg",
+      "location": "Google meet",
+      "date": "2024-10-23",
+      "comments": []
+    },
+    {
+      "id": "c5e8",
+      "title": "Attend 2024 Web Summit",
+      "description": " Attend 2024 Web Summit",
+      "imageUrl": "https://images.inc.com/uploaded_files/image/1920x1080/getty_495445876_970647970450088_104855.jpg",
+      "location": "Westlands",
+      "date": "2024-10-22",
+      "comments": []
+    },
+    {
+      "id": "77f8",
+      "title": "Submit My Project",
+      "description": " Submit projects",
+      "imageUrl": "https://media.licdn.com/dms/image/D4D12AQGVw0sVZ7Kj-g/article-cover_image-shrink_720_1280/0/1673636348357?e=2147483647&v=beta&t=57y9BAqjSg5QkPPh61e0wLTxD2KwM7hwSE-C7DLQlhQ",
+      "location": " Moringa Google meet",
+      "date": "2024-10-21",
+      "comments": []
+    },
+    {
+      "id": "e9b7",
+      "title": "Launch My art Gallery",
+      "description": " Launch My art Gallery",
+      "imageUrl": "https://www.visitvictoria.com/-/media/atdw/goldfields/see-and-do/art-and-culture/art-galleries/u2ksgmb72l8_1600x1200.jpg?ts=20240205300424",
+      "location": "Karen, Tangaza",
+      "date": "2024-11-02",
       "comments": []
     }
   ],
