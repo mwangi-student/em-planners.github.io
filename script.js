@@ -1,5 +1,5 @@
 // Fetch all events
-fetch("http://localhost:3000/posts")
+fetch("https://em-planners-github-io.onrender.com/posts")
   .then((res) => res.json())
   .then((data) => {
     const posts_row = document.getElementById("posts_row");
@@ -33,7 +33,7 @@ add_form.addEventListener("submit", (event) => {
   const location = document.getElementById("location").value;
   const date = document.getElementById("date").value;
 
-  fetch("http://localhost:3000/posts", {
+  fetch("https://em-planners-github-io.onrender.com/posts", {
     method: "POST",
     body: JSON.stringify({
       title: title,
@@ -56,7 +56,7 @@ add_form.addEventListener("submit", (event) => {
 
 // Delete post function
 function deleteEvent(id) {
-  fetch(`http://localhost:3000/posts/${id}`, {
+  fetch(`https://em-planners-github-io.onrender.com/posts/${id}`, {
     method: "DELETE",
   })
     .then((res) => res.json())
